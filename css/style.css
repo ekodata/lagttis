@@ -1,5 +1,5 @@
 /*================================================================================
-  Item Name: Materialize - Material Design Admin Template
+  Item Name: Materialize - Most Robust Data Analytic Platform for LASG
   Version: 3.0
   Author: GeeksLabs
   Author URL: http://www.themeforest.net/user/geekslabs
